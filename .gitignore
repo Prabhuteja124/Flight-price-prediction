@@ -1,0 +1,31 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+
+# Model files
+models/
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Logs
+*.log
+
+# VSCode settings (if applicable)
+.vscode/
