@@ -9,9 +9,9 @@
 # *.xlsx
 
 # Model files
-models/
-*.pkl
-*.joblib
+# models/
+# *.pkl
+# *.joblib
 
 # Python cache
 __pycache__/
