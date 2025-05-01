@@ -2,11 +2,11 @@
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
 
-# Data files
-data/raw/
-data/processed/
-*.csv
-*.xlsx
+# # Data files
+# data/raw/
+# data/processed/
+# *.csv
+# *.xlsx
 
 # Model files
 models/
